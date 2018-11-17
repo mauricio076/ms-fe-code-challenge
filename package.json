@@ -1,0 +1,18 @@
+{
+	"name": "makeschoool-challenge",
+	"version": "1.0.0",
+	"description": "A front end challenge usign Twitter API",
+	"author": "Mauricio Quintana",
+	"license": "ISC",
+	"main": "index.html",
+	"engines": {
+		"node": ">=10"
+	},
+	"dependencies": {
+    "twitter-proxy": "^2.0.0",
+    "http-server": "^0.9.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
