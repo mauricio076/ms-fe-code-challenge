@@ -1,19 +1,16 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import {Helmet} from "react-helmet";
-import * as TWEETS1 from "../shared/MakeSchool.json";
-import * as TWEETS2 from "../shared/NewsYC.json";
-import * as TWEETS3 from "../shared/YCombinator.json";
-import TweetColum from "./ColumnComponent";
+import TweetsComponent from "./TweetsComponent";
 //import Header from './HeaderComponent';
 //import Footer from './FooterComponent';
 
 class Main extends Component {
 
-    constructor(props){
+    constructor(props) {
         super(props);
 
         this.state = {
-            tweets: null
+
         };
     }
 
@@ -25,16 +22,16 @@ class Main extends Component {
                     <title>Frontend Coding Challenge</title>
                 </Helmet>
                 <h1>code challenge</h1>
-                <div className="container bg-light">
+                <div className="container">
                     <div className="row">
-                        <div  className="col-12 col-md-4 mt-3">
-                            <TweetColum tweets={TWEETS1}/>
+                        <div className="col-12 col-md-4 mt-3">
+                            <TweetsComponent screen_name="MakeSchool"/>
                         </div>
-                        <div  className="col-12 col-md-4 mt-3">
-                            <TweetColum tweets={TWEETS2}/>
+                       <div className="col-12 col-md-4 mt-3">
+                            <TweetsComponent screen_name="newsycombinator"/>
                         </div>
-                        <div  className="col-12 col-md-4 mt-3">
-                            <TweetColum tweets={TWEETS3}/>
+                        <div className="col-12 col-md-4 mt-3">
+                            <TweetsComponent screen_name="ycombinator"/>
                         </div>
                     </div>
                 </div>
