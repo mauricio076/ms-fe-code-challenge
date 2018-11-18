@@ -1,0 +1,5386 @@
+[
+  {
+    "created_at": "Fri Nov 16 18:32:58 +0000 2018",
+    "id": 1063500190613729300,
+    "id_str": "1063500190613729282",
+    "text": "RT @gustaf: Everyone who wants to understand how we actually can reverse climate change and avoid catastrophic global warming should read t…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "gustaf",
+          "name": "Gustaf Alströmer",
+          "id": 1668,
+          "id_str": "1668",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 16 16:49:51 +0000 2018",
+      "id": 1063474236449157100,
+      "id_str": "1063474236449157121",
+      "text": "Everyone who wants to understand how we actually can reverse climate change and avoid catastrophic global warming s… https://t.co/kijRXLYmwG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kijRXLYmwG",
+            "expanded_url": "https://twitter.com/i/web/status/1063474236449157121",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1668,
+        "id_str": "1668",
+        "name": "Gustaf Alströmer",
+        "screen_name": "gustaf",
+        "location": "San Francisco",
+        "description": "partner @ycombinator. previously growth @airbnb. immigrant.",
+        "url": "https://t.co/xMvzkPrpEM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/xMvzkPrpEM",
+                "expanded_url": "https://molly.com/gustaf",
+                "display_url": "molly.com/gustaf",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 10865,
+        "friends_count": 2003,
+        "listed_count": 485,
+        "created_at": "Mon Jul 17 00:24:27 +0000 2006",
+        "favourites_count": 9899,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 8538,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/538914430994485250/TSklwaXN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/538914430994485250/TSklwaXN_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668/1405559380",
+        "profile_link_color": "3599F0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "Estados Unidos",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.514926,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.833238
+              ],
+              [
+                -122.514926,
+                37.833238
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 26,
+      "favorite_count": 92,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 15 20:19:04 +0000 2018",
+    "id": 1063164503389540400,
+    "id_str": "1063164503389540353",
+    "text": "Pachyderm (YC W15) Raises $10M In Series A To Lead Data Science In The Enterprise: https://t.co/RzQzJYdt5R",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/RzQzJYdt5R",
+          "expanded_url": "http://www.pachyderm.io/2018/11/15/Series-A.html",
+          "display_url": "pachyderm.io/2018/11/15/Ser…",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 15 16:22:55 +0000 2018",
+    "id": 1063105071867666400,
+    "id_str": "1063105071867666432",
+    "text": "Congrats to the Standard Cognition (YC S17)  team! Standard Cognition raises $40M to build autonomous retail tech: https://t.co/MFH1U0cxv1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MFH1U0cxv1",
+          "expanded_url": "https://techcrunch.com/2018/11/15/standard-cognition/",
+          "display_url": "techcrunch.com/2018/11/15/sta…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 45,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 15 00:58:09 +0000 2018",
+    "id": 1062872346074247200,
+    "id_str": "1062872346074247168",
+    "text": "RT @nolimits: If you're interested in working at a @ycombinator startup, here's a good place to start: https://t.co/98jK7MhIKZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "nolimits",
+          "name": "Adora Cheung",
+          "id": 9203182,
+          "id_str": "9203182",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "ycombinator",
+          "name": "Y Combinator",
+          "id": 113130846,
+          "id_str": "113130846",
+          "indices": [
+            51,
+            63
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/98jK7MhIKZ",
+          "expanded_url": "https://ycombinator.monday.vc/jobs",
+          "display_url": "ycombinator.monday.vc/jobs",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 15 00:50:36 +0000 2018",
+      "id": 1062870447274942500,
+      "id_str": "1062870447274942464",
+      "text": "If you're interested in working at a @ycombinator startup, here's a good place to start: https://t.co/98jK7MhIKZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ycombinator",
+            "name": "Y Combinator",
+            "id": 113130846,
+            "id_str": "113130846",
+            "indices": [
+              37,
+              49
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/98jK7MhIKZ",
+            "expanded_url": "https://ycombinator.monday.vc/jobs",
+            "display_url": "ycombinator.monday.vc/jobs",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9203182,
+        "id_str": "9203182",
+        "name": "Adora Cheung",
+        "screen_name": "nolimits",
+        "location": "adora@ycombinator.com",
+        "description": "Partner at @ycombinator",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11530,
+        "friends_count": 270,
+        "listed_count": 344,
+        "created_at": "Tue Oct 02 07:05:47 +0000 2007",
+        "favourites_count": 2133,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2201,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643648240806555648/TCGTi4xi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643648240806555648/TCGTi4xi_normal.jpg",
+        "profile_link_color": "FF6600",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 42,
+      "favorite_count": 166,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 14 18:53:07 +0000 2018",
+    "id": 1062780482650292200,
+    "id_str": "1062780482650292224",
+    "text": "RT @bthdonohue: First time talking publicly about coming into leadership position at @Instapaper, the acquisition, the spinout, and running…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "bthdonohue",
+          "name": "Brian Donohue",
+          "id": 337167459,
+          "id_str": "337167459",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "instapaper",
+          "name": "Instapaper",
+          "id": 16240267,
+          "id_str": "16240267",
+          "indices": [
+            85,
+            96
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 14 17:17:24 +0000 2018",
+      "id": 1062756394611310600,
+      "id_str": "1062756394611310592",
+      "text": "First time talking publicly about coming into leadership position at @Instapaper, the acquisition, the spinout, and… https://t.co/D408cD3scf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "instapaper",
+            "name": "Instapaper",
+            "id": 16240267,
+            "id_str": "16240267",
+            "indices": [
+              69,
+              80
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/D408cD3scf",
+            "expanded_url": "https://twitter.com/i/web/status/1062756394611310592",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 337167459,
+        "id_str": "337167459",
+        "name": "Brian Donohue",
+        "screen_name": "bthdonohue",
+        "location": "Oakland, CA",
+        "description": "Still makin' that @Instapaper, @Pinterest.",
+        "url": "http://t.co/5GWlsaZ3Pn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/5GWlsaZ3Pn",
+                "expanded_url": "http://bthdonohue.com",
+                "display_url": "bthdonohue.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2710,
+        "friends_count": 1304,
+        "listed_count": 127,
+        "created_at": "Sun Jul 17 15:34:32 +0000 2011",
+        "favourites_count": 24363,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17804,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F8F2E3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/734810377456877568/qs3JxZ3J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/734810377456877568/qs3JxZ3J_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/337167459/1398261863",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 87,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 14 17:49:33 +0000 2018",
+    "id": 1062764486556377100,
+    "id_str": "1062764486556377093",
+    "text": "Tweet leads Mark Cuban to invest in biotech company Perlara (YC W16) and quest to cure rare genetic disease https://t.co/FzhVFhlzMO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/FzhVFhlzMO",
+          "expanded_url": "http://ow.ly/oRtr30mCoSN",
+          "display_url": "ow.ly/oRtr30mCoSN",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 42,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 14 16:36:58 +0000 2018",
+    "id": 1062746218453823500,
+    "id_str": "1062746218453823489",
+    "text": "Welcome Lindsay! https://t.co/fDkKyNPtNk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fDkKyNPtNk",
+          "expanded_url": "https://twitter.com/opazazzyzen/status/1062733633486639105",
+          "display_url": "twitter.com/opazazzyzen/st…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1062733633486639100,
+    "quoted_status_id_str": "1062733633486639105",
+    "quoted_status": {
+      "created_at": "Wed Nov 14 15:46:57 +0000 2018",
+      "id": 1062733633486639100,
+      "id_str": "1062733633486639105",
+      "text": "In 2010, an article I wrote made it to the top of Hacker News (@newsycombinator); I was ecstatic. Today, I join… https://t.co/Axi8lKKU67",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "newsycombinator",
+            "name": "Hacker News",
+            "id": 14335498,
+            "id_str": "14335498",
+            "indices": [
+              63,
+              79
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Axi8lKKU67",
+            "expanded_url": "https://twitter.com/i/web/status/1062733633486639105",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20964914,
+        "id_str": "20964914",
+        "name": "Lindsay Wiese-Amos",
+        "screen_name": "opazazzyzen",
+        "location": "Woodside, CA",
+        "description": "Comms at @ycombinator. Needs puppy — although @dog_feelings acts as a stopgap.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1058,
+        "friends_count": 166,
+        "listed_count": 50,
+        "created_at": "Mon Feb 16 05:28:46 +0000 2009",
+        "favourites_count": 2564,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6924,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1053337299570716672/kFkdyxC5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053337299570716672/kFkdyxC5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20964914/1538696023",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 85,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 14 16:11:48 +0000 2018",
+    "id": 1062739888213094400,
+    "id_str": "1062739888213094400",
+    "text": "@gustaf @CraigCannon @bthdonohue Brian answered your question at 59:45 https://t.co/y57ygjjKCT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "gustaf",
+          "name": "Gustaf Alströmer",
+          "id": 1668,
+          "id_str": "1668",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "CraigCannon",
+          "name": "Craig Cannon",
+          "id": 117855200,
+          "id_str": "117855200",
+          "indices": [
+            8,
+            20
+          ]
+        },
+        {
+          "screen_name": "bthdonohue",
+          "name": "Brian Donohue",
+          "id": 337167459,
+          "id_str": "337167459",
+          "indices": [
+            21,
+            32
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/y57ygjjKCT",
+          "expanded_url": "https://youtu.be/u3Gu0EX98Cg?t=59m45s",
+          "display_url": "youtu.be/u3Gu0EX98Cg?t=…",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1056989079697387500,
+    "in_reply_to_status_id_str": "1056989079697387521",
+    "in_reply_to_user_id": 1668,
+    "in_reply_to_user_id_str": "1668",
+    "in_reply_to_screen_name": "gustaf",
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 14 16:11:31 +0000 2018",
+    "id": 1062739815911702500,
+    "id_str": "1062739815911702528",
+    "text": "@brianjckim @CraigCannon @bthdonohue Brian answered your question at 57:20 https://t.co/clfP2qbHuE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "brianjckim",
+          "name": "Brian Kim",
+          "id": 789697813609316400,
+          "id_str": "789697813609316352",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "CraigCannon",
+          "name": "Craig Cannon",
+          "id": 117855200,
+          "id_str": "117855200",
+          "indices": [
+            12,
+            24
+          ]
+        },
+        {
+          "screen_name": "bthdonohue",
+          "name": "Brian Donohue",
+          "id": 337167459,
+          "id_str": "337167459",
+          "indices": [
+            25,
+            36
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/clfP2qbHuE",
+          "expanded_url": "https://youtu.be/u3Gu0EX98Cg?t=57m20s",
+          "display_url": "youtu.be/u3Gu0EX98Cg?t=…",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1056986786247913500,
+    "in_reply_to_status_id_str": "1056986786247913472",
+    "in_reply_to_user_id": 789697813609316400,
+    "in_reply_to_user_id_str": "789697813609316352",
+    "in_reply_to_screen_name": "brianjckim",
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 14 16:11:13 +0000 2018",
+    "id": 1062739742075248600,
+    "id_str": "1062739742075248640",
+    "text": "@RaymondDurk @CraigCannon @bthdonohue Brian answered your question at 54:00 https://t.co/xOTPo748Yz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "RaymondDurk",
+          "name": "Raymond Durk",
+          "id": 1488240140,
+          "id_str": "1488240140",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "CraigCannon",
+          "name": "Craig Cannon",
+          "id": 117855200,
+          "id_str": "117855200",
+          "indices": [
+            13,
+            25
+          ]
+        },
+        {
+          "screen_name": "bthdonohue",
+          "name": "Brian Donohue",
+          "id": 337167459,
+          "id_str": "337167459",
+          "indices": [
+            26,
+            37
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xOTPo748Yz",
+          "expanded_url": "https://youtu.be/u3Gu0EX98Cg?t=54m",
+          "display_url": "youtu.be/u3Gu0EX98Cg?t=…",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1057102997468012500,
+    "in_reply_to_status_id_str": "1057102997468012544",
+    "in_reply_to_user_id": 1488240140,
+    "in_reply_to_user_id_str": "1488240140",
+    "in_reply_to_screen_name": "RaymondDurk",
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 14 16:10:50 +0000 2018",
+    "id": 1062739644880629800,
+    "id_str": "1062739644880629761",
+    "text": "@rrhoover @CraigCannon @bthdonohue Brian answered your question at 49:45 https://t.co/QRoBnpr5Lb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rrhoover",
+          "name": "Ryan Hoover",
+          "id": 14417215,
+          "id_str": "14417215",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "CraigCannon",
+          "name": "Craig Cannon",
+          "id": 117855200,
+          "id_str": "117855200",
+          "indices": [
+            10,
+            22
+          ]
+        },
+        {
+          "screen_name": "bthdonohue",
+          "name": "Brian Donohue",
+          "id": 337167459,
+          "id_str": "337167459",
+          "indices": [
+            23,
+            34
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QRoBnpr5Lb",
+          "expanded_url": "https://youtu.be/u3Gu0EX98Cg?t=49m45s",
+          "display_url": "youtu.be/u3Gu0EX98Cg?t=…",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1057093000256319500,
+    "in_reply_to_status_id_str": "1057093000256319488",
+    "in_reply_to_user_id": 14417215,
+    "in_reply_to_user_id_str": "14417215",
+    "in_reply_to_screen_name": "rrhoover",
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 14 16:10:32 +0000 2018",
+    "id": 1062739568850493400,
+    "id_str": "1062739568850493440",
+    "text": "@jkwade @CraigCannon @bthdonohue Brian answered your question at 42:15 https://t.co/4pfxYUZEwg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jkwade",
+          "name": "Jareau Wadé",
+          "id": 17989291,
+          "id_str": "17989291",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "CraigCannon",
+          "name": "Craig Cannon",
+          "id": 117855200,
+          "id_str": "117855200",
+          "indices": [
+            8,
+            20
+          ]
+        },
+        {
+          "screen_name": "bthdonohue",
+          "name": "Brian Donohue",
+          "id": 337167459,
+          "id_str": "337167459",
+          "indices": [
+            21,
+            32
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4pfxYUZEwg",
+          "expanded_url": "https://youtu.be/u3Gu0EX98Cg?t=42m15s",
+          "display_url": "youtu.be/u3Gu0EX98Cg?t=…",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1057008126564749300,
+    "in_reply_to_status_id_str": "1057008126564749312",
+    "in_reply_to_user_id": 17989291,
+    "in_reply_to_user_id_str": "17989291",
+    "in_reply_to_screen_name": "jkwade",
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 14 14:46:10 +0000 2018",
+    "id": 1062718335597473800,
+    "id_str": "1062718335597473792",
+    "text": "RT @CraigCannon: New episode with Brian Donohue (@bthdonohue) of @instapaper is up. https://t.co/LLA9nMNvIs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CraigCannon",
+          "name": "Craig Cannon",
+          "id": 117855200,
+          "id_str": "117855200",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "bthdonohue",
+          "name": "Brian Donohue",
+          "id": 337167459,
+          "id_str": "337167459",
+          "indices": [
+            49,
+            60
+          ]
+        },
+        {
+          "screen_name": "instapaper",
+          "name": "Instapaper",
+          "id": 16240267,
+          "id_str": "16240267",
+          "indices": [
+            65,
+            76
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LLA9nMNvIs",
+          "expanded_url": "https://blog.ycombinator.com/brian-donohue-on-operating-instapaper-through-an-acquisition/",
+          "display_url": "blog.ycombinator.com/brian-donohue-…",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 14 14:44:54 +0000 2018",
+      "id": 1062718017472057300,
+      "id_str": "1062718017472057347",
+      "text": "New episode with Brian Donohue (@bthdonohue) of @instapaper is up. https://t.co/LLA9nMNvIs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bthdonohue",
+            "name": "Brian Donohue",
+            "id": 337167459,
+            "id_str": "337167459",
+            "indices": [
+              32,
+              43
+            ]
+          },
+          {
+            "screen_name": "instapaper",
+            "name": "Instapaper",
+            "id": 16240267,
+            "id_str": "16240267",
+            "indices": [
+              48,
+              59
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LLA9nMNvIs",
+            "expanded_url": "https://blog.ycombinator.com/brian-donohue-on-operating-instapaper-through-an-acquisition/",
+            "display_url": "blog.ycombinator.com/brian-donohue-…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 117855200,
+        "id_str": "117855200",
+        "name": "Craig Cannon",
+        "screen_name": "CraigCannon",
+        "location": "Berkeley, CA",
+        "description": "Podcaster at Y Combinator. Before that Comedy Hack Day and The Onion.",
+        "url": "https://t.co/NiwCmi5XTF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/NiwCmi5XTF",
+                "expanded_url": "http://craigrcannon.com",
+                "display_url": "craigrcannon.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3821,
+        "friends_count": 206,
+        "listed_count": 85,
+        "created_at": "Fri Feb 26 21:01:50 +0000 2010",
+        "favourites_count": 2322,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 314,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839865304528232449/As5XyVLf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839865304528232449/As5XyVLf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117855200/1540852614",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "707070",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "707070",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Nov 13 20:34:04 +0000 2018",
+    "id": 1062443501953187800,
+    "id_str": "1062443501953187848",
+    "text": "Y Combinator is Hiring a Visiting Partner in the Life Sciences https://t.co/gGGriohWbS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gGGriohWbS",
+          "expanded_url": "https://blog.ycombinator.com/y-combinator-is-hiring-a-visiting-partner-in-the-life-sciences/",
+          "display_url": "blog.ycombinator.com/y-combinator-i…",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Nov 13 02:23:52 +0000 2018",
+    "id": 1062169142705279000,
+    "id_str": "1062169142705278976",
+    "text": "Andrew Kortina will be on the podcast this week discussing the post below. What questions do you have? https://t.co/yoQcvyWSTU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yoQcvyWSTU",
+          "expanded_url": "https://twitter.com/kortina/status/1062165856862449665",
+          "display_url": "twitter.com/kortina/status…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1062165856862449700,
+    "quoted_status_id_str": "1062165856862449665",
+    "quoted_status": {
+      "created_at": "Tue Nov 13 02:10:49 +0000 2018",
+      "id": 1062165856862449700,
+      "id_str": "1062165856862449665",
+      "text": "@CraigCannon for the sake of being a provocateur / stirring the pot -- esp w this audience ;) -- questions about so… https://t.co/bfvsxBQXVs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CraigCannon",
+            "name": "Craig Cannon",
+            "id": 117855200,
+            "id_str": "117855200",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bfvsxBQXVs",
+            "expanded_url": "https://twitter.com/i/web/status/1062165856862449665",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1062021854989180900,
+      "in_reply_to_status_id_str": "1062021854989180929",
+      "in_reply_to_user_id": 117855200,
+      "in_reply_to_user_id_str": "117855200",
+      "in_reply_to_screen_name": "CraigCannon",
+      "user": {
+        "id": 5634162,
+        "id_str": "5634162",
+        "name": "kortina",
+        "screen_name": "kortina",
+        "location": "Oakland, CA",
+        "description": "nyc / oakland // co-founder @finexploration / @venmo",
+        "url": "https://t.co/BLbFaFTNbi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/BLbFaFTNbi",
+                "expanded_url": "http://kortina.nyc",
+                "display_url": "kortina.nyc",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2318,
+        "friends_count": 177,
+        "listed_count": 121,
+        "created_at": "Sun Apr 29 15:57:44 +0000 2007",
+        "favourites_count": 97,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 145,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/931685362346352640/K9K41sHa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/931685362346352640/K9K41sHa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5634162/1504292195",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "999999",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Nov 13 02:21:53 +0000 2018",
+    "id": 1062168642928832500,
+    "id_str": "1062168642928832512",
+    "text": "RT @corbtt: A great conversation about how engineering works at Amazon and AWS! https://t.co/4lloiMT0OD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "corbtt",
+          "name": "Kyle Corbitt",
+          "id": 823506858,
+          "id_str": "823506858",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4lloiMT0OD",
+          "expanded_url": "https://twitter.com/startupschool/status/1061660800392151041",
+          "display_url": "twitter.com/startupschool/…",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 11 17:20:00 +0000 2018",
+      "id": 1061669887607627800,
+      "id_str": "1061669887607627777",
+      "text": "A great conversation about how engineering works at Amazon and AWS! https://t.co/4lloiMT0OD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4lloiMT0OD",
+            "expanded_url": "https://twitter.com/startupschool/status/1061660800392151041",
+            "display_url": "twitter.com/startupschool/…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 823506858,
+        "id_str": "823506858",
+        "name": "Kyle Corbitt",
+        "screen_name": "corbtt",
+        "location": "San Bruno, CA",
+        "description": "Software engineer at Y Combinator.",
+        "url": "https://t.co/4IzSPmtYAr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/4IzSPmtYAr",
+                "expanded_url": "https://corbt.com",
+                "display_url": "corbt.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 336,
+        "friends_count": 60,
+        "listed_count": 11,
+        "created_at": "Fri Sep 14 15:44:30 +0000 2012",
+        "favourites_count": 1085,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 182,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/931776522540609536/N4m7DLQc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/931776522540609536/N4m7DLQc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1061660800392151000,
+      "quoted_status_id_str": "1061660800392151041",
+      "quoted_status": {
+        "created_at": "Sun Nov 11 16:43:54 +0000 2018",
+        "id": 1061660800392151000,
+        "id_str": "1061660800392151041",
+        "text": "A Conversation with Amazon CTO, Werner Vogels (@Werner), moderated by Kyle Corbitt (@corbtt):\n\nhttps://t.co/TD4VIeBQsS",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Werner",
+              "name": "Werner Vogels",
+              "id": 113963,
+              "id_str": "113963",
+              "indices": [
+                47,
+                54
+              ]
+            },
+            {
+              "screen_name": "corbtt",
+              "name": "Kyle Corbitt",
+              "id": 823506858,
+              "id_str": "823506858",
+              "indices": [
+                84,
+                91
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/TD4VIeBQsS",
+              "expanded_url": "https://www.startupschool.org/videos/61",
+              "display_url": "startupschool.org/videos/61",
+              "indices": [
+                95,
+                118
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 78649953,
+          "id_str": "78649953",
+          "name": "Startup School",
+          "screen_name": "startupschool",
+          "location": "🌎",
+          "description": "@ycombinator's free online course for startups",
+          "url": "https://t.co/cgLjR54fe0",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/cgLjR54fe0",
+                  "expanded_url": "http://startupschool.org/",
+                  "display_url": "startupschool.org",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 11974,
+          "friends_count": 28,
+          "listed_count": 345,
+          "created_at": "Wed Sep 30 16:50:40 +0000 2009",
+          "favourites_count": 317,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 398,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1033258805956501504/XZCkVkVF_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033258805956501504/XZCkVkVF_normal.jpg",
+          "profile_link_color": "F06827",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 29,
+        "favorite_count": 128,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 8,
+      "favorite_count": 59,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1061660800392151000,
+    "quoted_status_id_str": "1061660800392151041",
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 12 22:20:47 +0000 2018",
+    "id": 1062107969045831700,
+    "id_str": "1062107969045831687",
+    "text": "RT @mwseibel: Very interesting job opportunity for anyone who wants to get into venture investing https://t.co/riq68WTZVC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mwseibel",
+          "name": "Michael Seibel",
+          "id": 2400261,
+          "id_str": "2400261",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/riq68WTZVC",
+          "expanded_url": "https://twitter.com/harris/status/1062081105493295104",
+          "display_url": "twitter.com/harris/status/…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 12 21:00:00 +0000 2018",
+      "id": 1062087639057088500,
+      "id_str": "1062087639057088513",
+      "text": "Very interesting job opportunity for anyone who wants to get into venture investing https://t.co/riq68WTZVC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/riq68WTZVC",
+            "expanded_url": "https://twitter.com/harris/status/1062081105493295104",
+            "display_url": "twitter.com/harris/status/…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2400261,
+        "id_str": "2400261",
+        "name": "Michael Seibel",
+        "screen_name": "mwseibel",
+        "location": "San Francisco",
+        "description": "CEO, Partner at Y Combinator #ycombinator michael@ycombinator.com\nAsk me anything here: https://t.co/tmWuSOx38z",
+        "url": "https://t.co/mvvU8toFEi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mvvU8toFEi",
+                "expanded_url": "http://michaelseibel.com",
+                "display_url": "michaelseibel.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/tmWuSOx38z",
+                "expanded_url": "https://molly.com/michael/",
+                "display_url": "molly.com/michael/",
+                "indices": [
+                  88,
+                  111
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 33771,
+        "friends_count": 277,
+        "listed_count": 688,
+        "created_at": "Tue Mar 27 04:00:40 +0000 2007",
+        "favourites_count": 2223,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2952,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/540367571988389888/I0PmoBNB_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/540367571988389888/I0PmoBNB_normal.jpeg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1062081105493295100,
+      "quoted_status_id_str": "1062081105493295104",
+      "quoted_status": {
+        "created_at": "Mon Nov 12 20:34:02 +0000 2018",
+        "id": 1062081105493295100,
+        "id_str": "1062081105493295104",
+        "text": "Ramping up my search for someone to help me with @ycombinator's Series A Program. Great training for either investi… https://t.co/jZKxYvYmc9",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ycombinator",
+              "name": "Y Combinator",
+              "id": 113130846,
+              "id_str": "113130846",
+              "indices": [
+                49,
+                61
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/jZKxYvYmc9",
+              "expanded_url": "https://twitter.com/i/web/status/1062081105493295104",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 132518463,
+          "id_str": "132518463",
+          "name": "Aaron Harris",
+          "screen_name": "harris",
+          "location": "NYC",
+          "description": "Partner at Y Combinator. Co-Founder of Tutorspree. .-. . .- .-.. .-.. -.-- / .-.. --- ...- . ... / -... .- --. . .-.. ...",
+          "url": "http://t.co/ilNe0xmqOM",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/ilNe0xmqOM",
+                  "expanded_url": "http://www.aaronkharris.com",
+                  "display_url": "aaronkharris.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 14824,
+          "friends_count": 289,
+          "listed_count": 449,
+          "created_at": "Tue Apr 13 13:22:14 +0000 2010",
+          "favourites_count": 3312,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 5945,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "B2DFDA",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/908003503750000640/HcSG0GaC_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/908003503750000640/HcSG0GaC_normal.jpg",
+          "profile_link_color": "93A644",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_sidebar_fill_color": "FFFFFF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 58,
+        "favorite_count": 261,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 29,
+      "favorite_count": 133,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1062081105493295100,
+    "quoted_status_id_str": "1062081105493295104",
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 12 20:52:46 +0000 2018",
+    "id": 1062085818557362200,
+    "id_str": "1062085818557362177",
+    "text": "RT @harris: Ramping up my search for someone to help me with @ycombinator's Series A Program. Great training for either investing or raisin…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "harris",
+          "name": "Aaron Harris",
+          "id": 132518463,
+          "id_str": "132518463",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "ycombinator",
+          "name": "Y Combinator",
+          "id": 113130846,
+          "id_str": "113130846",
+          "indices": [
+            61,
+            73
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 12 20:34:02 +0000 2018",
+      "id": 1062081105493295100,
+      "id_str": "1062081105493295104",
+      "text": "Ramping up my search for someone to help me with @ycombinator's Series A Program. Great training for either investi… https://t.co/jZKxYvYmc9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ycombinator",
+            "name": "Y Combinator",
+            "id": 113130846,
+            "id_str": "113130846",
+            "indices": [
+              49,
+              61
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jZKxYvYmc9",
+            "expanded_url": "https://twitter.com/i/web/status/1062081105493295104",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 132518463,
+        "id_str": "132518463",
+        "name": "Aaron Harris",
+        "screen_name": "harris",
+        "location": "NYC",
+        "description": "Partner at Y Combinator. Co-Founder of Tutorspree. .-. . .- .-.. .-.. -.-- / .-.. --- ...- . ... / -... .- --. . .-.. ...",
+        "url": "http://t.co/ilNe0xmqOM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/ilNe0xmqOM",
+                "expanded_url": "http://www.aaronkharris.com",
+                "display_url": "aaronkharris.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 14824,
+        "friends_count": 289,
+        "listed_count": 449,
+        "created_at": "Tue Apr 13 13:22:14 +0000 2010",
+        "favourites_count": 3312,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5945,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/908003503750000640/HcSG0GaC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/908003503750000640/HcSG0GaC_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 58,
+      "favorite_count": 261,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 12 19:35:03 +0000 2018",
+    "id": 1062066260849107000,
+    "id_str": "1062066260849106944",
+    "text": "Y Combinator is Hiring a Visiting Partner in the Life Sciences https://t.co/gGGriohWbS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gGGriohWbS",
+          "expanded_url": "https://blog.ycombinator.com/y-combinator-is-hiring-a-visiting-partner-in-the-life-sciences/",
+          "display_url": "blog.ycombinator.com/y-combinator-i…",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 50,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 12 19:00:38 +0000 2018",
+    "id": 1062057600034975700,
+    "id_str": "1062057600034975751",
+    "text": "Universe (YC W18) is launching on the iPad with Universe 2.0. It's everything you need to design, edit, and build w… https://t.co/t1S40X1Rtr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/t1S40X1Rtr",
+          "expanded_url": "https://twitter.com/i/web/status/1062057600034975751",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 12 18:00:43 +0000 2018",
+    "id": 1062042522887901200,
+    "id_str": "1062042522887901185",
+    "text": "RT @HeyLeap: .@meganrosedickey of @techcrunch chatted tech reporting with us. Check out our conversation https://t.co/xDfKgikIrI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "HeyLeap",
+          "name": "Leap",
+          "id": 987069059731636200,
+          "id_str": "987069059731636225",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "meganrosedickey",
+          "name": "mrd",
+          "id": 28386584,
+          "id_str": "28386584",
+          "indices": [
+            14,
+            30
+          ]
+        },
+        {
+          "screen_name": "TechCrunch",
+          "name": "TechCrunch",
+          "id": 816653,
+          "id_str": "816653",
+          "indices": [
+            34,
+            45
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xDfKgikIrI",
+          "expanded_url": "https://leap.ycombinator.com/all/posts/q52z5pvm/hi-i-m-megan-rose-dickey-senior-reporter-at-techcrunch-ask-me-anything",
+          "display_url": "leap.ycombinator.com/all/posts/q52z…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 12 17:28:26 +0000 2018",
+      "id": 1062034396750983200,
+      "id_str": "1062034396750983173",
+      "text": ".@meganrosedickey of @techcrunch chatted tech reporting with us. Check out our conversation https://t.co/xDfKgikIrI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "meganrosedickey",
+            "name": "mrd",
+            "id": 28386584,
+            "id_str": "28386584",
+            "indices": [
+              1,
+              17
+            ]
+          },
+          {
+            "screen_name": "TechCrunch",
+            "name": "TechCrunch",
+            "id": 816653,
+            "id_str": "816653",
+            "indices": [
+              21,
+              32
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xDfKgikIrI",
+            "expanded_url": "https://leap.ycombinator.com/all/posts/q52z5pvm/hi-i-m-megan-rose-dickey-senior-reporter-at-techcrunch-ask-me-anything",
+            "display_url": "leap.ycombinator.com/all/posts/q52z…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 987069059731636200,
+        "id_str": "987069059731636225",
+        "name": "Leap",
+        "screen_name": "HeyLeap",
+        "location": "San Francisco, CA",
+        "description": "private online network for women in tech by @cadran_c at @ycombinator",
+        "url": "https://t.co/OIXOH2yeQB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OIXOH2yeQB",
+                "expanded_url": "https://leap.ycombinator.com/",
+                "display_url": "leap.ycombinator.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 205,
+        "friends_count": 205,
+        "listed_count": 5,
+        "created_at": "Thu Apr 19 20:42:57 +0000 2018",
+        "favourites_count": 19,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1049658517253226498/W-iyM7vk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049658517253226498/W-iyM7vk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 12 17:30:09 +0000 2018",
+    "id": 1062034826897834000,
+    "id_str": "1062034826897833984",
+    "text": "Clearbanc (YC F1) raises $70M to give startups ad money for a rev share: https://t.co/pzxg3dfKth",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pzxg3dfKth",
+          "expanded_url": "https://techcrunch.com/2018/11/12/clearbanc/",
+          "display_url": "techcrunch.com/2018/11/12/cle…",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 12 16:45:19 +0000 2018",
+    "id": 1062023544572469200,
+    "id_str": "1062023544572469249",
+    "text": "Goodly (YC S18) wants employers to stop giving its workers lavish perks and start helping them pay their student lo… https://t.co/v9CbFs84tX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/v9CbFs84tX",
+          "expanded_url": "https://twitter.com/i/web/status/1062023544572469249",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 141,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 12 16:39:11 +0000 2018",
+    "id": 1062022003065086000,
+    "id_str": "1062022003065085953",
+    "text": "RT @CraigCannon: Podcasting with Venmo and Fin cofounder Andrew Kortina (@kortina). What questions do you have?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CraigCannon",
+          "name": "Craig Cannon",
+          "id": 117855200,
+          "id_str": "117855200",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "kortina",
+          "name": "kortina",
+          "id": 5634162,
+          "id_str": "5634162",
+          "indices": [
+            73,
+            81
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 12 16:38:36 +0000 2018",
+      "id": 1062021854989180900,
+      "id_str": "1062021854989180929",
+      "text": "Podcasting with Venmo and Fin cofounder Andrew Kortina (@kortina). What questions do you have?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kortina",
+            "name": "kortina",
+            "id": 5634162,
+            "id_str": "5634162",
+            "indices": [
+              56,
+              64
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 117855200,
+        "id_str": "117855200",
+        "name": "Craig Cannon",
+        "screen_name": "CraigCannon",
+        "location": "Berkeley, CA",
+        "description": "Podcaster at Y Combinator. Before that Comedy Hack Day and The Onion.",
+        "url": "https://t.co/NiwCmi5XTF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/NiwCmi5XTF",
+                "expanded_url": "http://craigrcannon.com",
+                "display_url": "craigrcannon.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3821,
+        "friends_count": 206,
+        "listed_count": 85,
+        "created_at": "Fri Feb 26 21:01:50 +0000 2010",
+        "favourites_count": 2322,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 314,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839865304528232449/As5XyVLf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839865304528232449/As5XyVLf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117855200/1540852614",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "707070",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "707070",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 11 16:44:35 +0000 2018",
+    "id": 1061660975236026400,
+    "id_str": "1061660975236026368",
+    "text": "RT @startupschool: A Conversation with Amazon CTO, Werner Vogels (@Werner), moderated by Kyle Corbitt (@corbtt):\n\nhttps://t.co/TD4VIeBQsS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "startupschool",
+          "name": "Startup School",
+          "id": 78649953,
+          "id_str": "78649953",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "Werner",
+          "name": "Werner Vogels",
+          "id": 113963,
+          "id_str": "113963",
+          "indices": [
+            66,
+            73
+          ]
+        },
+        {
+          "screen_name": "corbtt",
+          "name": "Kyle Corbitt",
+          "id": 823506858,
+          "id_str": "823506858",
+          "indices": [
+            103,
+            110
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TD4VIeBQsS",
+          "expanded_url": "https://www.startupschool.org/videos/61",
+          "display_url": "startupschool.org/videos/61",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 11 16:43:54 +0000 2018",
+      "id": 1061660800392151000,
+      "id_str": "1061660800392151041",
+      "text": "A Conversation with Amazon CTO, Werner Vogels (@Werner), moderated by Kyle Corbitt (@corbtt):\n\nhttps://t.co/TD4VIeBQsS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Werner",
+            "name": "Werner Vogels",
+            "id": 113963,
+            "id_str": "113963",
+            "indices": [
+              47,
+              54
+            ]
+          },
+          {
+            "screen_name": "corbtt",
+            "name": "Kyle Corbitt",
+            "id": 823506858,
+            "id_str": "823506858",
+            "indices": [
+              84,
+              91
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TD4VIeBQsS",
+            "expanded_url": "https://www.startupschool.org/videos/61",
+            "display_url": "startupschool.org/videos/61",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 78649953,
+        "id_str": "78649953",
+        "name": "Startup School",
+        "screen_name": "startupschool",
+        "location": "🌎",
+        "description": "@ycombinator's free online course for startups",
+        "url": "https://t.co/cgLjR54fe0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/cgLjR54fe0",
+                "expanded_url": "http://startupschool.org/",
+                "display_url": "startupschool.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11974,
+        "friends_count": 28,
+        "listed_count": 345,
+        "created_at": "Wed Sep 30 16:50:40 +0000 2009",
+        "favourites_count": 317,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 398,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1033258805956501504/XZCkVkVF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033258805956501504/XZCkVkVF_normal.jpg",
+        "profile_link_color": "F06827",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 29,
+      "favorite_count": 128,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 09 19:27:04 +0000 2018",
+    "id": 1060977086289100800,
+    "id_str": "1060977086289100802",
+    "text": "RT @startupschool: Kyle Corbitt (@corbtt) talking with Amazon CTO Werner Vogels (@Werner) on startups and tech at Startup School. Interview…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "startupschool",
+          "name": "Startup School",
+          "id": 78649953,
+          "id_str": "78649953",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "corbtt",
+          "name": "Kyle Corbitt",
+          "id": 823506858,
+          "id_str": "823506858",
+          "indices": [
+            33,
+            40
+          ]
+        },
+        {
+          "screen_name": "Werner",
+          "name": "Werner Vogels",
+          "id": 113963,
+          "id_str": "113963",
+          "indices": [
+            81,
+            88
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 09 19:12:56 +0000 2018",
+      "id": 1060973532052516900,
+      "id_str": "1060973532052516864",
+      "text": "Kyle Corbitt (@corbtt) talking with Amazon CTO Werner Vogels (@Werner) on startups and tech at Startup School. Inte… https://t.co/UAqn3X6cXM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "corbtt",
+            "name": "Kyle Corbitt",
+            "id": 823506858,
+            "id_str": "823506858",
+            "indices": [
+              14,
+              21
+            ]
+          },
+          {
+            "screen_name": "Werner",
+            "name": "Werner Vogels",
+            "id": 113963,
+            "id_str": "113963",
+            "indices": [
+              62,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UAqn3X6cXM",
+            "expanded_url": "https://twitter.com/i/web/status/1060973532052516864",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 78649953,
+        "id_str": "78649953",
+        "name": "Startup School",
+        "screen_name": "startupschool",
+        "location": "🌎",
+        "description": "@ycombinator's free online course for startups",
+        "url": "https://t.co/cgLjR54fe0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/cgLjR54fe0",
+                "expanded_url": "http://startupschool.org/",
+                "display_url": "startupschool.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11974,
+        "friends_count": 28,
+        "listed_count": 345,
+        "created_at": "Wed Sep 30 16:50:40 +0000 2009",
+        "favourites_count": 317,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 398,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1033258805956501504/XZCkVkVF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033258805956501504/XZCkVkVF_normal.jpg",
+        "profile_link_color": "F06827",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 87,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 09 18:30:09 +0000 2018",
+    "id": 1060962766004064300,
+    "id_str": "1060962766004064256",
+    "text": "Sam Altman (@sama) on Choosing Projects, Creating Value, and Finding Purpose https://t.co/2I2YagMoxe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sama",
+          "name": "Sam Altman",
+          "id": 1605,
+          "id_str": "1605",
+          "indices": [
+            12,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2I2YagMoxe",
+          "expanded_url": "https://blog.ycombinator.com/sam-altman-on-choosing-projects-creating-value-and-finding-purpose/",
+          "display_url": "blog.ycombinator.com/sam-altman-on-…",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 136,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 09 17:28:52 +0000 2018",
+    "id": 1060947343590244400,
+    "id_str": "1060947343590244352",
+    "text": "Gaming AMA with YC Visiting Partner Holly Liu (@hollyhliu) https://t.co/hcQnGp3u5h",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hollyhliu",
+          "name": "Holly Liu",
+          "id": 25763,
+          "id_str": "25763",
+          "indices": [
+            47,
+            57
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hcQnGp3u5h",
+          "expanded_url": "https://blog.ycombinator.com/gaming-ama-with-yc-visiting-partner-holly-liu/",
+          "display_url": "blog.ycombinator.com/gaming-ama-wit…",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 08 15:31:22 +0000 2018",
+    "id": 1060555385520689200,
+    "id_str": "1060555385520689152",
+    "text": "RT @rrhoover: Love this: @ycombinator SUS video with @justinkan on why you should or shouldn’t join a startup: https://t.co/Hb3BUdFWR0\n\nIn…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rrhoover",
+          "name": "Ryan Hoover",
+          "id": 14417215,
+          "id_str": "14417215",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "ycombinator",
+          "name": "Y Combinator",
+          "id": 113130846,
+          "id_str": "113130846",
+          "indices": [
+            25,
+            37
+          ]
+        },
+        {
+          "screen_name": "justinkan",
+          "name": "Justin Kan",
+          "id": 28917111,
+          "id_str": "28917111",
+          "indices": [
+            53,
+            63
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Hb3BUdFWR0",
+          "expanded_url": "https://www.youtube.com/watch?v=YzyatiQrQlQ",
+          "display_url": "youtube.com/watch?v=Yzyati…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 08 11:23:20 +0000 2018",
+      "id": 1060492962981908500,
+      "id_str": "1060492962981908480",
+      "text": "Love this: @ycombinator SUS video with @justinkan on why you should or shouldn’t join a startup: https://t.co/Hb3BUdFWR0\n\nIn summary...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ycombinator",
+            "name": "Y Combinator",
+            "id": 113130846,
+            "id_str": "113130846",
+            "indices": [
+              11,
+              23
+            ]
+          },
+          {
+            "screen_name": "justinkan",
+            "name": "Justin Kan",
+            "id": 28917111,
+            "id_str": "28917111",
+            "indices": [
+              39,
+              49
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Hb3BUdFWR0",
+            "expanded_url": "https://www.youtube.com/watch?v=YzyatiQrQlQ",
+            "display_url": "youtube.com/watch?v=Yzyati…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14417215,
+        "id_str": "14417215",
+        "name": "Ryan Hoover",
+        "screen_name": "rrhoover",
+        "location": "San Francisco, CA",
+        "description": "Founder of @ProductHunt, @WeekendFund investor. Real likes, no gimmicks. ✌️😸",
+        "url": "https://t.co/BISIS7wqCm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/BISIS7wqCm",
+                "expanded_url": "http://producthunt.com/@rrhoover",
+                "display_url": "producthunt.com/@rrhoover",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 107950,
+        "friends_count": 1950,
+        "listed_count": 3202,
+        "created_at": "Thu Apr 17 05:45:18 +0000 2008",
+        "favourites_count": 287509,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 118238,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FCFCFC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907679408055390208/5_STXrRg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907679408055390208/5_STXrRg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14417215/1392518773",
+        "profile_link_color": "3880C9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "CCCCCC",
+        "profile_text_color": "222222",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 128,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 08 15:30:28 +0000 2018",
+    "id": 1060555157451219000,
+    "id_str": "1060555157451218945",
+    "text": "RT @CraigCannon: New episode with Sam Altman (@sama) is up. https://t.co/NFAStkKyVW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CraigCannon",
+          "name": "Craig Cannon",
+          "id": 117855200,
+          "id_str": "117855200",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "sama",
+          "name": "Sam Altman",
+          "id": 1605,
+          "id_str": "1605",
+          "indices": [
+            46,
+            51
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NFAStkKyVW",
+          "expanded_url": "https://blog.ycombinator.com/sam-altman-on-choosing-projects-creating-value-and-finding-purpose/",
+          "display_url": "blog.ycombinator.com/sam-altman-on-…",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034452,
+      "friends_count": 152,
+      "listed_count": 8230,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 1766,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5736,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 08 15:30:11 +0000 2018",
+      "id": 1060555084969328600,
+      "id_str": "1060555084969328640",
+      "text": "New episode with Sam Altman (@sama) is up. https://t.co/NFAStkKyVW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sama",
+            "name": "Sam Altman",
+            "id": 1605,
+            "id_str": "1605",
+            "indices": [
+              29,
+              34
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NFAStkKyVW",
+            "expanded_url": "https://blog.ycombinator.com/sam-altman-on-choosing-projects-creating-value-and-finding-purpose/",
+            "display_url": "blog.ycombinator.com/sam-altman-on-…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 117855200,
+        "id_str": "117855200",
+        "name": "Craig Cannon",
+        "screen_name": "CraigCannon",
+        "location": "Berkeley, CA",
+        "description": "Podcaster at Y Combinator. Before that Comedy Hack Day and The Onion.",
+        "url": "https://t.co/NiwCmi5XTF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/NiwCmi5XTF",
+                "expanded_url": "http://craigrcannon.com",
+                "display_url": "craigrcannon.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3821,
+        "friends_count": 206,
+        "listed_count": 85,
+        "created_at": "Fri Feb 26 21:01:50 +0000 2010",
+        "favourites_count": 2322,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 314,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839865304528232449/As5XyVLf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839865304528232449/As5XyVLf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117855200/1540852614",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "707070",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "707070",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 153,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 41,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

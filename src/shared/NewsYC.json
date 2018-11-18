@@ -1,0 +1,3032 @@
+[
+  {
+    "created_at": "Sun Nov 18 04:02:40 +0000 2018",
+    "id": 1064005946224115700,
+    "id_str": "1064005946224115713",
+    "text": "Simplicity https://t.co/MfRMSnho1W",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MfRMSnho1W",
+          "expanded_url": "https://plato.stanford.edu/entries/simplicity/",
+          "display_url": "plato.stanford.edu/entries/simpli…",
+          "indices": [
+            11,
+            34
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  {
+    "created_at": "Sun Nov 18 04:02:40 +0000 2018",
+    "id": 1064005944194097200,
+    "id_str": "1064005944194097152",
+    "text": "Story of a failed pentest https://t.co/HRYfm7f4HQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HRYfm7f4HQ",
+          "expanded_url": "https://threader.app/thread/1063423110513418240",
+          "display_url": "threader.app/thread/1063423…",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 18 03:01:11 +0000 2018",
+    "id": 1063990472815902700,
+    "id_str": "1063990472815902720",
+    "text": "Show HN: Founders launching startups on Twitch https://t.co/vb0MrnE7Hf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vb0MrnE7Hf",
+          "expanded_url": "https://24hrstartup.com/",
+          "display_url": "24hrstartup.com",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 18 02:00:58 +0000 2018",
+    "id": 1063975320267747300,
+    "id_str": "1063975320267747329",
+    "text": "What Car Thieves Think of the Club (2010) https://t.co/lN4IshMOkZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lN4IshMOkZ",
+          "expanded_url": "http://freakonomics.com/2010/06/08/what-car-thieves-think-of-the-club/",
+          "display_url": "freakonomics.com/2010/06/08/wha…",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 18 01:01:36 +0000 2018",
+    "id": 1063960378890162200,
+    "id_str": "1063960378890162176",
+    "text": "GoAWK: an AWK interpreter written in Go https://t.co/i3EquNw0Om",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/i3EquNw0Om",
+          "expanded_url": "https://benhoyt.com/writings/goawk/",
+          "display_url": "benhoyt.com/writings/goawk/",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 18 00:01:01 +0000 2018",
+    "id": 1063945133366960100,
+    "id_str": "1063945133366960131",
+    "text": "Surveillance Kills Freedom by Killing Experimentation https://t.co/2Zabh7IT54",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2Zabh7IT54",
+          "expanded_url": "https://www.wired.com/story/mcsweeneys-excerpt-the-right-to-experiment/",
+          "display_url": "wired.com/story/mcsweene…",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 18 00:01:00 +0000 2018",
+    "id": 1063945129931661300,
+    "id_str": "1063945129931661312",
+    "text": "How cities can fix tourism hell https://t.co/9Yalx0EmUm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9Yalx0EmUm",
+          "expanded_url": "https://techcrunch.com/2018/11/17/how-cities-can-fix-tourism-hell/",
+          "display_url": "techcrunch.com/2018/11/17/how…",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 23:01:44 +0000 2018",
+    "id": 1063930213648818200,
+    "id_str": "1063930213648818176",
+    "text": "How cities can fix tourism hell https://t.co/9Yalx0VYiW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9Yalx0VYiW",
+          "expanded_url": "https://techcrunch.com/2018/11/17/how-cities-can-fix-tourism-hell/",
+          "display_url": "techcrunch.com/2018/11/17/how…",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 22:02:54 +0000 2018",
+    "id": 1063915405901733900,
+    "id_str": "1063915405901733888",
+    "text": "Memristors built with 2-nanometer-thick parts https://t.co/6mZqkg3S5p",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6mZqkg3S5p",
+          "expanded_url": "https://arstechnica.com/science/2018/11/memristors-built-with-2-nanometer-thick-parts/",
+          "display_url": "arstechnica.com/science/2018/1…",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 22:02:53 +0000 2018",
+    "id": 1063915401661292500,
+    "id_str": "1063915401661292546",
+    "text": "Unicorns Backing Their Own VCs? Welcome to Peak Tech https://t.co/yrAHmDPZe7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yrAHmDPZe7",
+          "expanded_url": "https://www.bloomberg.com/opinion/articles/2018-11-15/unicorns-starting-their-own-vcs-welcome-to-peak-tech",
+          "display_url": "bloomberg.com/opinion/articl…",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 21:02:50 +0000 2018",
+    "id": 1063900291492393000,
+    "id_str": "1063900291492392965",
+    "text": "Mtime comparison considered harmful https://t.co/H151067V1a",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/H151067V1a",
+          "expanded_url": "https://apenwarr.ca/log/20181113",
+          "display_url": "apenwarr.ca/log/20181113",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 21:02:50 +0000 2018",
+    "id": 1063900290443817000,
+    "id_str": "1063900290443816960",
+    "text": "If I were to invent a programming language for the 21st century https://t.co/pl4LPDv8gP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pl4LPDv8gP",
+          "expanded_url": "https://wordsandbuttons.online/if_i_were_to_invent_a_programming_language_for_the_21st_century.html",
+          "display_url": "wordsandbuttons.online/if_i_were_to_i…",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 20:02:34 +0000 2018",
+    "id": 1063885125434396700,
+    "id_str": "1063885125434396672",
+    "text": "Show HN: Gmail Classic – CSS for Reverting Gmail's New Look https://t.co/KgpWt0d4XK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KgpWt0d4XK",
+          "expanded_url": "https://github.com/shellscape/gmail-classic",
+          "display_url": "github.com/shellscape/gma…",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 20:02:34 +0000 2018",
+    "id": 1063885124411031600,
+    "id_str": "1063885124411031559",
+    "text": "Show HN: Hundreds of founders launching startups on Twitch right now https://t.co/vb0MrnE7Hf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vb0MrnE7Hf",
+          "expanded_url": "https://24hrstartup.com/",
+          "display_url": "24hrstartup.com",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 19:01:45 +0000 2018",
+    "id": 1063869818795958300,
+    "id_str": "1063869818795958273",
+    "text": "Google to Sunset Analytic Services SDK, Transitions Mobile Analytics to Firebase https://t.co/CoBlkMC2Bk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CoBlkMC2Bk",
+          "expanded_url": "https://www.e-nor.com/blog/google-analytics/google-to-sunset-support-for-google-analytics-services-sdk-transitions-mobile-analytics-to-firebase",
+          "display_url": "e-nor.com/blog/google-an…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 18:01:57 +0000 2018",
+    "id": 1063854772850229200,
+    "id_str": "1063854772850229248",
+    "text": "Amazon's Stealth Brands: Everything on Amazon Is Amazon https://t.co/f7zzHmnBow",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/f7zzHmnBow",
+          "expanded_url": "https://www.nytimes.com/2018/11/15/style/this-is-also-amazon.html",
+          "display_url": "nytimes.com/2018/11/15/sty…",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 27,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 17:03:13 +0000 2018",
+    "id": 1063839991636336600,
+    "id_str": "1063839991636336640",
+    "text": "Running Windows Software on ARM Devices with Wine https://t.co/3uI1vXHNxi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3uI1vXHNxi",
+          "expanded_url": "https://gist.github.com/MIvanchev/14de59fa2552d315ac74c30cf1c0b01e",
+          "display_url": "gist.github.com/MIvanchev/14de…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 17:03:13 +0000 2018",
+    "id": 1063839990847819800,
+    "id_str": "1063839990847819776",
+    "text": "A Raft implementation in Haskell https://t.co/VhUGalucQX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/VhUGalucQX",
+          "expanded_url": "https://github.com/adjoint-io/raft",
+          "display_url": "github.com/adjoint-io/raft",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 17:03:13 +0000 2018",
+    "id": 1063839989203640300,
+    "id_str": "1063839989203640321",
+    "text": "A million-dollar drug https://t.co/N2I6Xz5t9t",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/N2I6Xz5t9t",
+          "expanded_url": "https://newsinteractives.cbc.ca/longform/glybera",
+          "display_url": "newsinteractives.cbc.ca/longform/glybe…",
+          "indices": [
+            22,
+            45
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 16:02:10 +0000 2018",
+    "id": 1063824625430343700,
+    "id_str": "1063824625430343680",
+    "text": "The State of the Octoverse: top programming languages of 2018 https://t.co/pdeF2itvrp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pdeF2itvrp",
+          "expanded_url": "https://blog.github.com/2018-11-15-state-of-the-octoverse-top-programming-languages/",
+          "display_url": "blog.github.com/2018-11-15-sta…",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 31,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 16:02:10 +0000 2018",
+    "id": 1063824624415322100,
+    "id_str": "1063824624415322113",
+    "text": "Amazon Web Services in Plain English https://t.co/L3lC8HkRve",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/L3lC8HkRve",
+          "expanded_url": "https://www.expeditedssl.com/aws-in-plain-english",
+          "display_url": "expeditedssl.com/aws-in-plain-e…",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 67,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 16:02:09 +0000 2018",
+    "id": 1063824623442321400,
+    "id_str": "1063824623442321409",
+    "text": "Story of a failed pentest https://t.co/HRYfm7f4HQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HRYfm7f4HQ",
+          "expanded_url": "https://threader.app/thread/1063423110513418240",
+          "display_url": "threader.app/thread/1063423…",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 16:02:09 +0000 2018",
+    "id": 1063824622662156300,
+    "id_str": "1063824622662156289",
+    "text": "Oil Demand for Cars Is Already Falling https://t.co/E0RteUOjjk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/E0RteUOjjk",
+          "expanded_url": "https://www.bloomberg.com/opinion/articles/2018-11-16/oil-demand-for-cars-and-transportation-is-already-falling",
+          "display_url": "bloomberg.com/opinion/articl…",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 15:02:42 +0000 2018",
+    "id": 1063809659935572000,
+    "id_str": "1063809659935571968",
+    "text": "Intel's new Bfloat16 floating-point format: 8 bit exponent, 7 bit mantissa [pdf] https://t.co/lJbnYOiLD0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lJbnYOiLD0",
+          "expanded_url": "https://software.intel.com/sites/default/files/managed/40/8b/bf16-hardware-numerics-definition-white-paper.pdf",
+          "display_url": "software.intel.com/sites/default/…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 15:02:41 +0000 2018",
+    "id": 1063809657851048000,
+    "id_str": "1063809657851047937",
+    "text": "Show HN: RTCTunnel, build network tunnels over WebRTC https://t.co/Uhb08suuZh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Uhb08suuZh",
+          "expanded_url": "https://github.com/rtctunnel/rtctunnel",
+          "display_url": "github.com/rtctunnel/rtct…",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 24,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "nl"
+  },
+  {
+    "created_at": "Sat Nov 17 13:02:02 +0000 2018",
+    "id": 1063779295196270600,
+    "id_str": "1063779295196270594",
+    "text": "Across the West powerful firms are becoming even more powerful https://t.co/xfAYurerxI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xfAYurerxI",
+          "expanded_url": "https://www.economist.com/special-report/2018/11/15/across-the-west-powerful-firms-are-becoming-even-more-powerful",
+          "display_url": "economist.com/special-report…",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 12:01:46 +0000 2018",
+    "id": 1063764126537785300,
+    "id_str": "1063764126537785345",
+    "text": "Vue 3.0 Updates [slides] https://t.co/9nDxNx5q1J",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9nDxNx5q1J",
+          "expanded_url": "https://docs.google.com/presentation/d/1yhPGyhQrJcpJI2ZFvBme3pGKaGNiLi709c37svivv0o/preview?slide=id.p",
+          "display_url": "docs.google.com/presentation/d…",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 22,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 12:01:44 +0000 2018",
+    "id": 1063764121009705000,
+    "id_str": "1063764121009704960",
+    "text": "Paralleltext: Learn languages by reading https://t.co/QBJsWchFo5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QBJsWchFo5",
+          "expanded_url": "http://paralleltext.io/",
+          "display_url": "paralleltext.io",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 38,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 11:02:46 +0000 2018",
+    "id": 1063749279666196500,
+    "id_str": "1063749279666196480",
+    "text": "Learn languages by reading https://t.co/QBJsWczgfD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QBJsWczgfD",
+          "expanded_url": "http://paralleltext.io/",
+          "display_url": "paralleltext.io",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 64,
+    "favorite_count": 135,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 17 11:02:46 +0000 2018",
+    "id": 1063749278835847200,
+    "id_str": "1063749278835847169",
+    "text": "Vue 3.0 Updates by Evan You at VueConf Toronto 2018 https://t.co/9nDxNx5q1J",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9nDxNx5q1J",
+          "expanded_url": "https://docs.google.com/presentation/d/1yhPGyhQrJcpJI2ZFvBme3pGKaGNiLi709c37svivv0o/preview?slide=id.p",
+          "display_url": "docs.google.com/presentation/d…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.steer.me\" rel=\"nofollow\">newsycombinator</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14335498,
+      "id_str": "14335498",
+      "name": "Hacker News",
+      "screen_name": "newsycombinator",
+      "location": "The Internet",
+      "description": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
+      "url": "http://t.co/gliZLgXpD1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/gliZLgXpD1",
+              "expanded_url": "http://news.ycombinator.com/",
+              "display_url": "news.ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184546,
+      "friends_count": 2,
+      "listed_count": 7513,
+      "created_at": "Tue Apr 08 19:58:28 +0000 2008",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 113108,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14335498/1400748904",
+      "profile_link_color": "F06200",
+      "profile_sidebar_border_color": "F5F5F5",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
