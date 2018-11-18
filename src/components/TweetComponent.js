@@ -12,6 +12,7 @@ function RenderTweet({tweet}) {
         let url = !tweet.entities.urls[0] ? '': tweet.entities.urls[0].url;
         let text = tweet.text.replace(url, '');
         return (
+            <a href={url} className="custom-card">
             <Card className="mt-3">
                 <CardBody>
                     <CardTitle>
@@ -23,7 +24,7 @@ function RenderTweet({tweet}) {
                     </CardText>
                 </CardBody>
             </Card>
-
+            </a>
         )
     }
 }

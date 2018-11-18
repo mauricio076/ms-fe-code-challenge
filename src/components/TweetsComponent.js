@@ -9,7 +9,6 @@ class  TweetsComponent extends Component {
             tweets: []
         };
     }
-
     componentWillMount() {
         fetch('http://localhost:7890/1.1/statuses/user_timeline.json?count=30&screen_name=' + this.props.screen_name)
             .then(results => {

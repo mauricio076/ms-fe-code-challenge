@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {Helmet} from "react-helmet";
 import TweetsComponent from "./TweetsComponent";
+import { Jumbotron} from 'reactstrap';
 //import Header from './HeaderComponent';
 //import Footer from './FooterComponent';
 
@@ -21,7 +22,11 @@ class Main extends Component {
                     <meta charSet="utf-8"/>
                     <title>Frontend Coding Challenge</title>
                 </Helmet>
-                <h1>code challenge</h1>
+                <div className="jumbotron jumbotron-fluid">
+                    <h1 className="display-3 text-sm-center text-left">Code challenge</h1>
+
+                </div>
+                {/*<div className="float-right">Tweets per column: </div>*/}
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-4 mt-3">

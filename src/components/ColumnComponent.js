@@ -17,15 +17,18 @@ const TweetsColumn = (props) => {
         return (
 
             <div>
-                <div className="float-left">
+                <div className="float-left pr-md-3">
                     <img width="100%" alt='' src={props.tweets[0].user.profile_image_url}></img>
                 </div>
-                <h3 className="text-center ">
+                <div className="media-body">
+                <h3>
                     {props.tweets[0].user.name} <br/>
                     <small className="text-muted">@{props.tweets[0].user.screen_name}</small>
                 </h3>
+
+                </div>
                 {tweetsCol}
-            </div>
+              </div>
 
         );
     }
