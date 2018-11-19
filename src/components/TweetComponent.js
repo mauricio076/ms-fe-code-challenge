@@ -20,7 +20,7 @@ function RenderTweet({tweet}) {
                     </CardTitle>
 
                     <CardText>
-                       {text} <a href={url}>{url}</a>
+                       {text} <a className="card-link" href={url}>{url}</a>
                     </CardText>
                 </CardBody>
             </Card>
