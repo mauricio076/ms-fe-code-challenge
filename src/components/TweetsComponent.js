@@ -1,7 +1,14 @@
 import React, {Component} from 'react';
 import TweetColum from "./ColumnComponent";
 import {Alert} from 'reactstrap';
-import { Manager, Reference, Popper } from 'react-popper';
+
+class HttpError extends Error {
+    constructor(response) {
+        super(`${response.status} for ${response.url}`);
+        this.name = 'HttpError';
+        this.response = response;
+    }
+}
 
 class TweetsComponent extends Component {
     constructor(props) {
@@ -21,18 +28,30 @@ class TweetsComponent extends Component {
 
 
     componentWillMount() {
-        const tweetsPerColumn = this.state.tweetsPerColumn;
-        console.log("Fetching data for: " + this.props.screen_name);
+        const tweetsPerColumn = this.props.tweetsPerColumn;
+        console.log("Fetching data for: " + this.props.screen_name + " tweetsPerColumn:" + tweetsPerColumn);
         fetch('http://localhost:7890/1.1/statuses/user_timeline.json?count=' + tweetsPerColumn + '&screen_name=' + this.props.screen_name)
-            .then(results => {
-                return results.json();
+            .then(response => {
+                if (response.ok) {
+                    return response.json();
+                }
+                else {
+                    response.json().then(
+                        (error) => {
+                            let errorMessage = "The API says: (" + error.errors[0].code + ') ' + error.errors[0].message;
+                            console.log(errorMessage);
+                            this.setState({error: "Not available"})
+                            alert("Could not fetch tweets, API error");
+                        }
+                    );
+                }
             })
             .then(data => {
-                console.log(data);
                 this.setState({tweets: data});
             })
             .catch(error => {
-                console.log("Catch", error);
+                console.log(error.response);
+                //alert(error.response.status + " - " + error.response.statusText);
                 this.setState({error: error})
             })
     }
@@ -48,15 +67,13 @@ class TweetsComponent extends Component {
     render() {
 
         if (this.state.tweets === undefined || this.state.error) {
-            console.log(this.state.error.statusText);
             return (
                 <div>
-                <Alert color="danger" isOpen={this.state.alertVisible} toggle={this.onDismiss}>
-                    {this.state.error.message}
-                </Alert>
+                    <Alert color="danger" isOpen={this.state.alertVisible} toggle={this.onDismiss}>
+                        {this.state.error}
+                    </Alert>
                 </div>)
         } else {
-            console.log("normal render");
             const tweetsPerColumn = this.props.tweetsPerColumn;
             return (
                 <div>
