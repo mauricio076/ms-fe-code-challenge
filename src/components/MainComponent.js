@@ -1,11 +1,10 @@
 import React, {Component} from 'react';
 import {Helmet} from "react-helmet";
 import TweetsComponent from "./TweetsComponent";
-import { Jumbotron} from 'reactstrap';
+import {Jumbotron} from 'reactstrap';
 import Footer from "./FooterComponent";
 import EditLayout from "./EditLayoutComponent";
-//import Header from './HeaderComponent';
-//import Footer from './FooterComponent';
+
 class Main extends Component {
 
     constructor(props) {
@@ -18,7 +17,7 @@ class Main extends Component {
         };
     }
 
-    handleTweetsPerColumnChange(tweetsPerColumn){
+    handleTweetsPerColumnChange(tweetsPerColumn) {
         this.setState({tweetsPerColumn})
     }
 
@@ -33,17 +32,18 @@ class Main extends Component {
                     <title>Frontend Coding Challenge</title>
                 </Helmet>
 
-                <div className="jumbotron jumbotron-fluid">
+                <Jumbotron className="jumbotron-fluid">
                     <h1 className="display-3 text-sm-center text-left">Code challenge</h1>
 
-                </div>
-                <EditLayout tweetsPerColumn={tweetsPerColumn} onTweetsPerColumnChange={this.handleTweetsPerColumnChange}/>
+                </Jumbotron>
+                <EditLayout tweetsPerColumn={tweetsPerColumn}
+                            onTweetsPerColumnChange={this.handleTweetsPerColumnChange}/>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-4 mt-3">
                             <TweetsComponent screen_name="MakeSchool" tweetsPerColumn={tweetsPerColumn}/>
                         </div>
-                       <div className="col-12 col-md-4 mt-3">
+                        <div className="col-12 col-md-4 mt-3">
                             <TweetsComponent screen_name="newsycombinator" tweetsPerColumn={tweetsPerColumn}/>
                         </div>
                         <div className="col-12 col-md-4 mt-3">

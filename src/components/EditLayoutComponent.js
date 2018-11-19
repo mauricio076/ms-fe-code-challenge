@@ -1,6 +1,6 @@
-import React, {Component} from 'react';
-import { Card, CardText, CardBody, CardTitle} from 'reactstrap';
-import { Dropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
+import React from 'react';
+import {Card, CardBody, CardTitle, Dropdown, DropdownItem, DropdownMenu, DropdownToggle} from 'reactstrap';
+
 
 export default class EditLayout extends React.Component {
     constructor(props) {
@@ -34,7 +34,6 @@ export default class EditLayout extends React.Component {
     }
 
     render() {
-        const tweetsPerColumn = this.props.tweetsPerColumn;
         return (
             <div className="flex float-right d-inline-flex p-2">
                 <Card className="mt-3">
@@ -44,11 +43,11 @@ export default class EditLayout extends React.Component {
                         </CardTitle>
 
                         <CardBody>
-                            <Dropdown isOpen={this.state.dropdownOpen} toggle={this.toggle} size="sm" >
+                            <Dropdown isOpen={this.state.dropdownOpen} toggle={this.toggle} size="sm">
                                 <DropdownToggle caret>
                                     Tweets per column
                                 </DropdownToggle>
-                                <DropdownMenu >
+                                <DropdownMenu>
                                     <DropdownItem onClick={this.handleChange} value={10}>10</DropdownItem>
                                     <DropdownItem onClick={this.handleChange} value={20}>20</DropdownItem>
                                     <DropdownItem onClick={this.handleChange} value={30}>30</DropdownItem>

@@ -1,30 +1,29 @@
 import React from 'react';
-import { Card, CardText, CardBody, CardTitle } from 'reactstrap';
+import {Card, CardText, CardBody, CardTitle} from 'reactstrap';
+import { Manager, Reference, Popper } from 'react-popper';
 
-var options = {weekday:'short', year: 'numeric', month: 'short', day: 'numeric'};
+var options = {weekday: 'short', year: 'numeric', month: 'short', day: 'numeric'};
 
 function RenderTweet({tweet}) {
-
 
     if (!tweet) {
         return (<div></div>)
     } else {
-        let url = !tweet.entities.urls[0] ? '': tweet.entities.urls[0].url;
+        let url = !tweet.entities.urls[0] ? '' : tweet.entities.urls[0].url;
         let text = tweet.text.replace(url, '');
         return (
-            <a href={url} className="custom-card">
-            <Card className="mt-3">
+
+            <Card className="mt-3 custom-card" tag='button' href={url}>
                 <CardBody>
                     <CardTitle>
                         {new Date(tweet.created_at).toLocaleDateString("en-US", options)}
                     </CardTitle>
 
                     <CardText>
-                       {text} <a className="card-link" href={url}>{url}</a>
+                        {text} <a className="card-link" href={url}>{url}</a>
                     </CardText>
                 </CardBody>
             </Card>
-            </a>
         )
     }
 }
