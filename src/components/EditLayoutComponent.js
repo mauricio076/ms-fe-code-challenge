@@ -49,9 +49,6 @@ export default class EditLayout extends React.Component {
                                     Tweets per column
                                 </DropdownToggle>
                                 <DropdownMenu >
-                                    {/*<DropdownItem onClick={this.changeTweetsPerColumn} value={10}>10</DropdownItem>
-                                    <DropdownItem onClick={this.changeTweetsPerColumn} value={20}>20</DropdownItem>
-                                    <DropdownItem onClick={this.changeTweetsPerColumn} value={30}>30</DropdownItem>*/}
                                     <DropdownItem onClick={this.handleChange} value={10}>10</DropdownItem>
                                     <DropdownItem onClick={this.handleChange} value={20}>20</DropdownItem>
                                     <DropdownItem onClick={this.handleChange} value={30}>30</DropdownItem>

@@ -10,7 +10,7 @@ class  TweetsComponent extends Component {
             tweets: []
         };
     }
-    /*componentWillMount() {
+    componentWillMount() {
         const tweetsPerColumn = this.state.tweetsPerColumn;
         fetch('http://localhost:7890/1.1/statuses/user_timeline.json?count='+tweetsPerColumn+'&screen_name=' + this.props.screen_name)
             .then(results => {
@@ -19,16 +19,16 @@ class  TweetsComponent extends Component {
             .then(data => {
                 this.setState({tweets: data});
             })
-    }*/
+    }
 
 
-    componentWillMount() {
+    /*componentWillMount() {
         const tweetsPerColumn = this.props.tweetsPerColumn;
         import('../shared/' + this.props.screen_name+'.json')
             .then((data) => {
                 this.setState({tweets:data.default});
             })
-    }
+    }*/
 
     render() {
         const tweetsPerColumn = this.props.tweetsPerColumn;
