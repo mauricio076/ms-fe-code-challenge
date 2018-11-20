@@ -1,21 +1,13 @@
 import React from 'react';
 import {
-    Card,
-    CardBody,
-    CardTitle,
-} from 'reactstrap';
-import {
     Collapse,
+    DropdownItem,
+    DropdownMenu,
+    DropdownToggle,
+    Nav,
     Navbar,
     NavbarToggler,
-    NavbarBrand,
-    Nav,
-    NavItem,
-    NavLink,
     UncontrolledDropdown,
-    DropdownToggle,
-    DropdownMenu,
-    DropdownItem
 } from 'reactstrap';
 import ThemeSwitcher from './ThemeSwitcherComponent'
 
@@ -47,7 +39,6 @@ export default class EditLayout extends React.Component {
     changeTweetsPerColumn(event) {
         event.preventDefault();
         this.setState({
-            //dropdownOpen: !this.state.dropdownOpen,
             tweetsPerColumn: event.currentTarget.value
         });
     }
@@ -58,16 +49,15 @@ export default class EditLayout extends React.Component {
 
     render() {
         const theme = this.state.theme;
-
         const themeClass = theme ? theme.toLowerCase() : 'secondary';
-const dark = themeClass === "dark";
+        const dark = themeClass === "dark";
 
         return (
             <div>
 
-                <Navbar light color="light"  expand="md">
+                <Navbar light color="light" expand="md">
 
-                    <NavbarToggler onClick={this.toggle} className="mr-2" />
+                    <NavbarToggler onClick={this.toggle} className="mr-2"/>
                     <Collapse isOpen={this.state.isOpen} navbar>
                         <Nav className="ml-auto" navbar>
                             <UncontrolledDropdown nav inNavbar>
@@ -86,45 +76,6 @@ const dark = themeClass === "dark";
                             <ThemeSwitcher onThemeChange={this.handleThemeChange}
                                            theme={themeClass}
                                            size="sm"/>
-                            {/*<Card className="mt-3">
-                            <CardBody>
-                                <CardTitle>
-                                    Modify Layout
-                                </CardTitle>
-                                <CardBody>
-                                    <div className="container container-fluid">
-                                        <div className="row">
-                                            <div className="col w-100">
-                                                <Dropdown isOpen={this.state.dropdownOpen}
-                                                          toggle={this.toggle}
-                                                          size="sm"
-                                                          className="w-100">
-                                                    <DropdownToggle caret>
-                                                        Tweets per column
-                                                    </DropdownToggle>
-                                                    <DropdownMenu>
-                                                        <DropdownItem onClick={this.handleChange}
-                                                                      value={10}>10</DropdownItem>
-                                                        <DropdownItem onClick={this.handleChange}
-                                                                      value={20}>20</DropdownItem>
-                                                        <DropdownItem onClick={this.handleChange}
-                                                                      value={30}>30</DropdownItem>
-                                                    </DropdownMenu>
-                                                </Dropdown>
-                                            </div>
-                                        </div>
-                                        <div className="row m-1"/>
-                                        <div className="row">
-                                            <div className="col">
-                                                <ThemeSwitcher onThemeChange={this.handleThemeChange}
-                                                               theme={themeClass}
-                                                               size="sm"/>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </CardBody>
-                            </CardBody>
-                        </Card>*/}
 
                         </Nav>
                     </Collapse>

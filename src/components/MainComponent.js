@@ -12,6 +12,9 @@ class Main extends Component {
 
         this.handleTweetsPerColumnChange = this.handleTweetsPerColumnChange.bind(this);
         this.handleThemeChange = this.handleThemeChange.bind(this);
+
+
+
         this.state = {
             tweetsPerColumn: 30,
             theme: "default"
@@ -19,13 +22,28 @@ class Main extends Component {
     }
 
     handleTweetsPerColumnChange(tweetsPerColumn) {
-        this.setState({tweetsPerColumn})
+        this.setState({tweetsPerColumn});
+        localStorage.setItem("tweetsPerColumn", tweetsPerColumn);
     }
 
     handleThemeChange(theme) {
-        this.setState({theme})
+        this.setState({theme});
+        localStorage.setItem("theme", theme);
     }
 
+    componentWillMount()
+    {
+        const theme = localStorage.getItem("theme");
+            if(theme)
+            {
+                this.setState({theme:theme});
+            }
+        const tweetsPerColumn = localStorage.getItem("tweetsPerColumn");
+        if(tweetsPerColumn)
+        {
+            this.setState({tweetsPerColumn:tweetsPerColumn});
+        }
+    }
 
     render() {
 

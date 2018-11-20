@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {UncontrolledDropdown, DropdownToggle, DropdownMenu, DropdownItem} from 'reactstrap';
+import {DropdownItem, DropdownMenu, DropdownToggle, UncontrolledDropdown} from 'reactstrap';
 
 class ThemeSwitcher extends Component {
 
@@ -32,7 +32,7 @@ class ThemeSwitcher extends Component {
         const themeClass = theme ? theme.toLowerCase() : 'secondary';
 
         return (
-            <UncontrolledDropdown nav inNavbar >
+            <UncontrolledDropdown nav inNavbar>
                 <DropdownToggle nav caret>
                     Theme
                 </DropdownToggle>
