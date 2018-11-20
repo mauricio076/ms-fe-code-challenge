@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.1.3",
+    "http-server": "^0.11.1",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.5",
     "react": "^16.6.3",
@@ -22,6 +23,7 @@
     "twitter-proxy": "^2.0.0"
   },
   "scripts": {
+    "startNormal": "node src/server.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

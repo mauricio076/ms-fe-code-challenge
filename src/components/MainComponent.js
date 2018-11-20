@@ -13,8 +13,6 @@ class Main extends Component {
         this.handleTweetsPerColumnChange = this.handleTweetsPerColumnChange.bind(this);
         this.handleThemeChange = this.handleThemeChange.bind(this);
 
-
-
         this.state = {
             tweetsPerColumn: 30,
             theme: "default"
@@ -31,17 +29,14 @@ class Main extends Component {
         localStorage.setItem("theme", theme);
     }
 
-    componentWillMount()
-    {
+    componentWillMount() {
         const theme = localStorage.getItem("theme");
-            if(theme)
-            {
-                this.setState({theme:theme});
-            }
+        if (theme) {
+            this.setState({theme: theme});
+        }
         const tweetsPerColumn = localStorage.getItem("tweetsPerColumn");
-        if(tweetsPerColumn)
-        {
-            this.setState({tweetsPerColumn:tweetsPerColumn});
+        if (tweetsPerColumn) {
+            this.setState({tweetsPerColumn: tweetsPerColumn});
         }
     }
 
@@ -58,7 +53,8 @@ class Main extends Component {
                     <meta charSet="utf-8"/>
                     <title>Frontend Coding Challenge</title>
                 </Helmet>
-                <EditLayout onThemeChange={this.handleThemeChange}  onTweetsPerColumnChange={this.handleTweetsPerColumnChange} theme={theme}/>
+                <EditLayout onThemeChange={this.handleThemeChange}
+                            onTweetsPerColumnChange={this.handleTweetsPerColumnChange} theme={theme}/>
                 <Jumbotron>
                     <h1 className="display-3 text-sm-center text-left">Code challenge</h1>
 
