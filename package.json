@@ -21,8 +21,6 @@
     "react-scripts": "2.1.1",
     "reactstrap": "^6.5.0",
     "twitter-proxy": "^2.0.0",
-    "concurrently": "^4.1.0",
-    "parallelshell": "^3.0.2"
   },
   "scripts": {
 
@@ -41,8 +39,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "parallelshell": "^3.0.2"
-  }
+  ]
 }
