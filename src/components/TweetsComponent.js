@@ -52,7 +52,7 @@ class TweetsComponent extends Component {
             .catch(error => {
                 console.log(error.response);
                 //alert(error.response.status + " - " + error.response.statusText);
-                this.setState({error: error})
+                this.setState({error: "Not available"})
             })
     }
 
