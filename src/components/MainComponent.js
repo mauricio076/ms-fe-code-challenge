@@ -11,9 +11,10 @@ class Main extends Component {
         super(props);
 
         this.handleTweetsPerColumnChange = this.handleTweetsPerColumnChange.bind(this);
-
+        this.handleThemeChange = this.handleThemeChange.bind(this);
         this.state = {
-            tweetsPerColumn: 30
+            tweetsPerColumn: 30,
+            theme: "default"
         };
     }
 
@@ -21,33 +22,43 @@ class Main extends Component {
         this.setState({tweetsPerColumn})
     }
 
+    handleThemeChange(theme) {
+        this.setState({theme})
+    }
+
 
     render() {
 
         const tweetsPerColumn = this.state.tweetsPerColumn;
+        const theme = this.state.theme;
+
+        const themeClass = theme ? theme.toLowerCase() : 'secondary';
+
         return (
-            <div>
+            <div className={`bg-${themeClass}`}>
                 <Helmet>
                     <meta charSet="utf-8"/>
                     <title>Frontend Coding Challenge</title>
                 </Helmet>
-
-                <Jumbotron className="jumbotron-fluid">
+                <EditLayout onThemeChange={this.handleThemeChange}  onTweetsPerColumnChange={this.handleTweetsPerColumnChange} theme={theme}/>
+                <Jumbotron>
                     <h1 className="display-3 text-sm-center text-left">Code challenge</h1>
 
                 </Jumbotron>
-                <EditLayout tweetsPerColumn={tweetsPerColumn}
-                            onTweetsPerColumnChange={this.handleTweetsPerColumnChange}/>
-                <div className="container">
+
+                <div className="container ">
                     <div className="row">
-                        <div className="col-12 col-md-4 mt-3">
-                            <TweetsComponent screen_name="MakeSchool" tweetsPerColumn={tweetsPerColumn}/>
+                        <div className="col-12 col-lg-4 mt-2">
+                            <TweetsComponent screen_name="MakeSchool" tweetsPerColumn={tweetsPerColumn}
+                                             theme={themeClass}/>
                         </div>
-                        <div className="col-12 col-md-4 mt-3">
-                            <TweetsComponent screen_name="newsycombinator" tweetsPerColumn={tweetsPerColumn}/>
+                        <div className="col-12 col-lg-4 mt-2">
+                            <TweetsComponent screen_name="newsycombinator" tweetsPerColumn={tweetsPerColumn}
+                                             theme={themeClass}/>
                         </div>
-                        <div className="col-12 col-md-4 mt-3">
-                            <TweetsComponent screen_name="ycombinator" tweetsPerColumn={tweetsPerColumn}/>
+                        <div className="col-12 col-lg-4 mt-2">
+                            <TweetsComponent screen_name="ycombinator" tweetsPerColumn={tweetsPerColumn}
+                                             theme={themeClass}/>
                         </div>
                     </div>
                 </div>

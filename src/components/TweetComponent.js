@@ -1,6 +1,6 @@
 import React from 'react';
 import {Card, CardText, CardBody, CardTitle} from 'reactstrap';
-import { Manager, Reference, Popper } from 'react-popper';
+import {Manager, Reference, Popper} from 'react-popper';
 
 var options = {weekday: 'short', year: 'numeric', month: 'short', day: 'numeric'};
 
@@ -13,7 +13,7 @@ function RenderTweet({tweet}) {
         let text = tweet.text.replace(url, '');
         return (
 
-            <Card className="mt-3 custom-card" tag='button' href={url}>
+            <Card className="mt-3 custom-card w-100 " tag='button' href={url}>
                 <CardBody>
                     <CardTitle>
                         {new Date(tweet.created_at).toLocaleDateString("en-US", options)}

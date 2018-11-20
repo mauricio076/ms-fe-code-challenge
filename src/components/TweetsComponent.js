@@ -27,45 +27,45 @@ class TweetsComponent extends Component {
     }
 
 
+    /* componentWillMount() {
+         const tweetsPerColumn = this.props.tweetsPerColumn;
+         console.log("Fetching data for: " + this.props.screen_name + " tweetsPerColumn:" + tweetsPerColumn);
+         fetch('http://localhost:7890/1.1/statuses/user_timeline.json?count=' + tweetsPerColumn + '&screen_name=' + this.props.screen_name)
+             .then(response => {
+                 if (response.ok) {
+                     return response.json();
+                 }
+                 else {
+                     response.json().then(
+                         (error) => {
+                             let errorMessage = "The API says: (" + error.errors[0].code + ') ' + error.errors[0].message;
+                             console.log(errorMessage);
+                             this.setState({error: "Not available"})
+                             alert("Could not fetch tweets, API error");
+                         }
+                     );
+                 }
+             })
+             .then(data => {
+                 this.setState({tweets: data});
+             })
+             .catch(error => {
+                 console.log(error.response);
+                 //alert(error.response.status + " - " + error.response.statusText);
+                 this.setState({error: error})
+             })
+     }*/
+
+    // For dev purpose, to avoid unnecessary calling the API
     componentWillMount() {
-        const tweetsPerColumn = this.props.tweetsPerColumn;
-        console.log("Fetching data for: " + this.props.screen_name + " tweetsPerColumn:" + tweetsPerColumn);
-        fetch('http://localhost:7890/1.1/statuses/user_timeline.json?count=' + tweetsPerColumn + '&screen_name=' + this.props.screen_name)
-            .then(response => {
-                if (response.ok) {
-                    return response.json();
-                }
-                else {
-                    response.json().then(
-                        (error) => {
-                            let errorMessage = "The API says: (" + error.errors[0].code + ') ' + error.errors[0].message;
-                            console.log(errorMessage);
-                            this.setState({error: "Not available"})
-                            alert("Could not fetch tweets, API error");
-                        }
-                    );
-                }
-            })
-            .then(data => {
-                this.setState({tweets: data});
-            })
-            .catch(error => {
-                console.log(error.response);
-                //alert(error.response.status + " - " + error.response.statusText);
-                this.setState({error: error})
+        import('../shared/dev/' + this.props.screen_name + '.json')
+            .then((data) => {
+                this.setState({tweets: data.default});
             })
     }
 
-    // For dev purpose, to avoid unnecessary calling the API
-    /*componentWillMount() {
-        import('../shared/dev/' + this.props.screen_name+'.json')
-            .then((data) => {
-                this.setState({tweets:data.default});
-            })
-    }*/
-
     render() {
-
+        const themeClass = this.props.theme;
         if (this.state.tweets === undefined || this.state.error) {
             return (
                 <div>
@@ -77,7 +77,7 @@ class TweetsComponent extends Component {
             const tweetsPerColumn = this.props.tweetsPerColumn;
             return (
                 <div>
-                    <TweetColum tweets={this.state.tweets.slice(0, tweetsPerColumn)}/>
+                    <TweetColum tweets={this.state.tweets.slice(0, tweetsPerColumn)} theme={themeClass}/>
                 </div>
             );
         }
